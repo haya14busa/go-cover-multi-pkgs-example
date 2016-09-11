@@ -1,0 +1,6 @@
+mode: count
+github.com/haya14busa/go-cover-multi-pkgs-example/root.go:5.24,7.2 1 1
+github.com/haya14busa/go-cover-multi-pkgs-example/root.go:9.17,12.2 2 1
+github.com/haya14busa/go-cover-multi-pkgs-example/sub/sub.go:3.23,5.2 1 1
+github.com/haya14busa/go-cover-multi-pkgs-example/sub/sub.go:7.24,9.2 1 1
+github.com/haya14busa/go-cover-multi-pkgs-example/sub/sub.go:11.30,13.2 1 2

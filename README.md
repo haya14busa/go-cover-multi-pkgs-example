@@ -35,3 +35,13 @@ of cource, we can produce html, and can confirm 100% lines are coverd.
 ```sh
 $ go tool cover -html=coverage.out
 ```
+
+### workaround using gocovmerge
+
+- https://github.com/wadey/gocovmerge
+- https://github.com/golang/go/issues/6909#issuecomment-233493644
+
+```
+make workaround
+make testworkaround
+```
