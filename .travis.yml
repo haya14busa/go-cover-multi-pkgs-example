@@ -13,4 +13,4 @@ install:
   - cd -
 
 script:
-  - goveralls -service=travis-ci
+  - goveralls -service=travis-ci -v
